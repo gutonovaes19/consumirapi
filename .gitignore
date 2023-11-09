@@ -67,3 +67,5 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+# fontes de autoria do 99coders que serviram para aprendizado. 
+originais/
